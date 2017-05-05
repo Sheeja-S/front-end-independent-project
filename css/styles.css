@@ -1,0 +1,40 @@
+.heading
+{
+  text-align: center;
+}
+
+#menu_icon
+{
+  width: 35px;
+  height: 5px;
+  background-color: white;
+  margin : 6px 0;
+  margin-left: 10%;
+
+}
+
+.background
+{
+  background-image:url("../img/landing.jpg");
+}
+
+h2
+{
+  font-family: Times New Roman;
+  color: white;
+}
+
+.heading3
+{
+  background-image:url("../img/breakfast.jpg");
+}
+
+.heading4
+{
+  background-image: url("../img/lunch.jpg")
+}
+
+.heading5
+{
+  background-image: url("../img/dinner.jpg")
+}
